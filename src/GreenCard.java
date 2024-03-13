@@ -1,19 +1,32 @@
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-public class GreenCard implements Card{
+public class GreenCard {
+    String adjective;
+    List<String> synonyms;
 
-    //private final HashMap<String, List<String>> synonymMap = new HashMap<String, List<String>>();
-
-    private final List<String> synonymList = new ArrayList<>();
-
-    private String adjective;
-
-    public GreenCard(String adjective){
-
+    GreenCard(String adjective, List<String> synonyms){
         this.adjective = adjective;
-
+        this.synonyms = synonyms;
     }
 
+    public void setAdjective(String adjective) {
+        this.adjective = adjective;
+    }
+
+    public void setSynonyms(List<String> synonyms) {
+        this.synonyms = synonyms;
+    }
+
+    public String getAdjective() {
+        return this.adjective;
+    }
+
+    public List<String> getSynonyms() {
+        return this.synonyms;
+    }
+
+    @Override
+    public String toString() {
+        return this.adjective + " " + this.synonyms;
+    }
 }
