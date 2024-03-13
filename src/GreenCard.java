@@ -1,4 +1,5 @@
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.io.File;
@@ -7,7 +8,7 @@ public class GreenCard {
     String adjective;
     List<String> synonyms;
 
-    GreenCard(String adjective, List<String> synonyms) throws FileNotFoundException {
+    GreenCard(String adjective, List<String> synonyms) {
         this.adjective = adjective;
         this.synonyms = synonyms;
 
@@ -26,11 +27,12 @@ public class GreenCard {
     }
 
     public List<String> getSynonyms() {
-        return this.synonyms;
+        // returns shallow copy of list
+        return new ArrayList<>(this.synonyms);
     }
 
     @Override
     public String toString() {
-        return this.adjective + " " + this.synonyms;
+        return this.adjective + ": " + this.synonyms;
     }
 }
