@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.List;
 
 public class RedCard {
@@ -8,6 +9,10 @@ public class RedCard {
     RedCard(String noun, String flavourText, List<String> synonyms){
         this.noun = noun;
         this.flavourText = flavourText;
+        this.synonyms = synonyms;
+    }
+    RedCard(String noun, List<String> synonyms){
+        this.noun = noun;
         this.synonyms = synonyms;
     }
 
@@ -32,11 +37,16 @@ public class RedCard {
     }
 
     public List<String> getSynonyms() {
-        return this.synonyms;
+        // Returns shallow copy of list
+        return new ArrayList<>(this.synonyms);
+    }
+
+    public void removeSynonym(String synonym) {
+        this.synonyms.remove(synonym);
     }
 
     @Override
     public String toString() {
-        return this.noun + " " + this.flavourText;
+        return this.noun + ": " + this.flavourText;
     }
 }
