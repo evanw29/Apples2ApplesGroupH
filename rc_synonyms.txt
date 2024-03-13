@@ -1,4 +1,4 @@
-  A Bad Haircut,dreadful,awful,terrible,horrible,horrific
+A Bad Haircut,dreadful,awful,terrible,horrible,horrific
 A Bull Fight,violent,brutal,aggressive,cruel,barbaric
 A Car Crash,accident,collision,wreck,smash,disaster
 A Cheap Motel,inexpensive,affordable,economical,budget,low-cost
