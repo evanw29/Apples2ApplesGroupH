@@ -1,0 +1,747 @@
+  A Bad Haircut,dreadful,awful,terrible,horrible,horrific
+A Bull Fight,violent,brutal,aggressive,cruel,barbaric
+A Car Crash,accident,collision,wreck,smash,disaster
+A Cheap Motel,inexpensive,affordable,economical,budget,low-cost
+A Crawl Space,confined,cramped,tight,enclosed,narrow
+A Dozen Red Roses,12 red roses,bunch of roses,floral arrangement,rose bouquet,flower bunch
+A Flat Tire,punctured tire,deflated tire,blowout,flat tyre,tyre burst
+A Full Moon,bright moon,lunar orb,luminous moon,moonlight,moonshine
+A Haunted House,spooky house,creepy mansion,ghostly dwelling,haunted mansion,scary residence
+A High School Bathroom,school lavatory,secondary school restroom,teenage washroom,educational facility toilet,youthful WC
+A Honeymoon,romantic trip,bridal vacation,post-wedding getaway,newlywed retreat,lovers' holiday
+A Locker Room,changing room,dressing area,sports changing room,athletic locker room,fitness changing area
+A Morgue,funeral home,mortuary,deadhouse,coroner's office,death chamber
+A Nine Iron,iron golf club,golf iron,nine-iron club,wedge club,short iron
+A School Bus,educational vehicle,student transport,children's bus,school coach,youth transport
+A School Cafeteria,educational dining hall,student canteen,children's lunchroom,school eatery,youth dining area
+A Sunrise,dawn,sunup,morning sun,sun's first light,daybreak
+A Sunset,dusk,evening sun,twilight,sundown,nightfall
+A Tree House,elevated hut,arboreal dwelling,wooden hideaway,treetop abode,foliage retreat
+A Used Car Lot,pre-owned vehicle dealership,secondhand automobile yard,previously owned car sales,second-user auto market,car reseller
+Abraham Lincoln,honest,emancipator,presidential,bearded,civil-rights leader
+Adam Sandler,comedian,actor,funny,entertainer,producer
+Adolph Hitler,dictator,tyrant,world-war,infamous,oppressor
+AIDS,viral,deadly,immune-system,global-health issue,chronic
+Airline Food,in-flight meal,economy class,packaged,quick-serve,snack
+Al Pacino,actor,dramatic,scarface,Godfather,thespian
+Albert Einstein,genius,physicist,theoretical,scientific,brilliant
+Alfred Hitchcock,director,suspense,master of suspense,innovative,psychological thriller
+Alien Abductions,extraterrestrial,unexplained,sci-fi,mysterious,abduction
+Americans,citizens,diverse,U.S. citizens,national,from United States
+Amputations,surgical removal,medical procedure,loss of limb,disability,severe injury
+Angry Hornets,aggressive,stinging,invasive,dangerous,swarming
+Andy Warhol,pop art,artist,innovative,1960s,cultural icon
+Anne Frank,diarist,historical figure,holocaust,victim,jewish
+Antarctica,frozen,continent,south pole,ice-covered,remote
+Anthony Hopkins,actor,distinguished,sir,oscar-winning,versatile
+Apple Pie,traditional,desert,classic,American,sweet
+Apples,fruit,orchard,crisp,healthy,red and green
+Armed Robbery,theft,crime,violent,dangerous,criminal act
+Assembly Lines,manufacturing,industrial,production,efficient,factory
+At My Parent's House,family home,welcoming,cozy,memorable,childhood
+Atlantis,mythical,lost city,underwater,legendary,ancient
+Atomic Bombs,nuclear,destructive,world-war,explosive,historic
+Attack On Pearl Harbor,historical,infamous,surprise attack,World War II,tragic
+Austin Powers,spy,comedy,1960s,groovy,parody
+Australian Outback,remote,wilderness,desolate,rugged,Outback
+Babe Ruth,baseball,legendary,sports icon,homerun,The Great Bambino
+Babies,newborn,infants,adorable,beginning,life
+Baby Showers,celebration,pregnancy,gift-giving,family,expecting
+Backstreet Boys,boy band,pop music,90s,musical group,harmony
+Bad Dogs,misbehaved,untrained,naughty,problematic,barking
+Bagpipes,Scottish,musical instrument,wind,traditional,cultural
+Baked Beans,comfort food,side dish,oven-cooked,hearty,classic
+Baked Potatoes,stuffed,oven-roasted,comfort food,fluffy,side dish
+Baking Cookies,home-made,sweet,oven-baked,aromatic,tradition
+Bald Eagles,national symbol,freedom,bird of prey,conservation,iconic
+Ballerinas,dancer,graceful,performer,classical ballet,artistic
+Bangkok,capital,Thailand,vibrant,urban,exotic
+Bankruptcy,financial failure,insolvency,debt,legal,reset
+Barbara Walters,journalist,television,news anchor,interviewer,pioneering
+Barbed Wire,security barrier,sharp,protective fencing,metallic,entanglement
+Barfing,vomiting,sick,nauseous,upchucking,retching
+Barney,purple dinosaur,children's show,friendly,educational,TV character
+Bart Simpson,animated,prankster,yellow-skinned,Matt Groening,Springfield
+Bates Motel,creepy,horror,Psycho,mysterious,motel
+Batman,Dark Knight,Gotham,superhero,cape crusader,DC Comics
+Bats,nocturnal,flying mammals,echolocation,cave dwellers,night creatures
+Beach Parties,fun in the sun,sand,summer,oceanfront,celebration
+Beanie Babies,collectibles,plush toys,Ty,90s craze,soft animals
+Beauty And The Beast,fairytale,Disney,romance,enchanted,classic story
+Beer,brew,ale,hops,barley,malt
+Beer Bellies,paunch,overweight,abdominal fat,bulge,hefty midsection
+Beethoven,classical music,composer,Ludwig van,symphonies,pianist
+Beets,root vegetable,earthy,red vegetables,nutritious,beetroot
+Being In Love,romantic,affection,passion,deep affection,amorous
+Bell-Bottoms,70s fashion,flared,retro,trousers,wide-legged
+Ben Stiller,comedian,actor,director,Zoolander,Meet the Parents
+Berlin,German capital,cultural hub,historic,Europe,urban
+Big Bang Theory,astronomy,cosmology,origin of universe,science,theory
+Big Macs,McDonald's,burger,fast food,special sauce,double patty
+Bigfoot,Sasquatch,mythical creature,cryptid,legend,forest giant
+Bill Clinton,president,1990s,Arkansas,Lewinsky scandal,Democrat
+Bill Gates,microsoft,philanthropist,billionaire,tech mogul,innovator
+Bill Murray,actor,comedian,Ghostbusters,SNL,Groundhog Day
+Billboards,outdoor advertising,large-scale,public,visual,marketing
+Bingo,game of chance,numbers,community game,luck,entertainment
+Bird Watching,birding,ornithology,nature observation,feathered friends,conservation
+Black Holes,astronomical,space mystery,gravity,cosmic,singularity
+Black Velvet,luxurious,smooth,rich texture,dark fabric,elegant
+Blizzard,snowstorm,severe,whiteout,cold snap,wintry
+Blood,life-fluid,circulatory,critical,essential,vital
+Board Games,tabletop,strategy,entertainment,family night,competitive
+Body Odor,human scent,perspiration,natural smell,unpleasant,hygiene
+Body Piercing,adornment,modification,jewelry,expressive,cultural
+Body Surfing,ocean wave riding,beach activity,natural,thrilling,coastal sport
+Bonbons,chocolate treats,sweet confectionery,decadent,candy,gourmet
+Bongos,percussion instruments,Cuban,drumming,rhythmic,musical
+Bottled Water,drinking water,convenience,plastic,hydration,portable
+Boxing,combat sport,fisticuffs,ring match,athletic competition,pugilism
+Boy Scouts,scouting,youth organization,outdoors,merit badges,leadership development
+Boyfriends,romantic,lovable,endearing,naughty,faithful
+Brad Pitt,famous,attractive,charming,wealthy,talented
+Brain Surgeons,intelligent,skilled,meticulous,dedicated,respected
+Brains,intelligent,complex,sophisticated,vital,innovative
+Britney Spears,famous,talented,dramatic,controversial,iconic
+Broadway,glamorous,artistic,cultural,entertaining,historic
+Bruce Willis,tough,charismatic,action-packed,resilient,versatile
+Bubble Gum,flavorful,fun,sticky,sweet,youthful
+Bubbles,delightful,ephemeral,shiny,playful,light
+Bullwinkle,comic,classic,entertaining,whimsical,animated
+Bumper Stickers,expressive,humorous,provocative,decorative,personalized
+Bungee Jumping,thrilling,adventurous,risky,exciting,exhilarating
+Buying A House,significant,expensive,daunting,aspirational,life-changing
+Cabbage,healthy,green,leafy,crunchy,versatile
+Cactus,resilient,spiky,exotic,hardy,distinctive
+California,sunny,diverse,innovative,expansive,iconic
+Camping Trip,adventurous,fun,natural,relaxing,escapist
+Canada,peaceful,diverse,cold,friendly,vast
+Canadians,friendly,polite,hockey-loving,apologetic,warm-hearted
+Captain Kirk,brave,iconic,commanding,adventurous,charismatic
+Car Bombs,deadly,dangerous,fearful,destructive,terrifying
+Car Horns,loud,annoying,necessary,alerting,blaring
+Carl Sagan,brilliant,inspirational,cosmic,thoughtful,educational
+Carnival Workers,boisterous,colorful,hard-working,mysterious,nomadic
+Cary Grant,charming,elegant,sophisticated,iconic,dashing
+Casablanca,romantic,classic,timeless,memorable,iconic
+Casinos,exciting,glamorous,risky,lively,opulent
+Castles,majestic,historic,grand,romantic,mysterious
+Caves,mysterious,ancient,dark,cool,exploratory
+Celine Dion,talented,emotional,diva,powerful,celebrated
+Cell Phones,ubiquitous,essential,innovative,convenient,distracting
+Cesar Chavez,inspirational,determined,righteous,advocate,heroic
+Chain Letters,annoying,superstitious,deceptive,spreading,irritating
+Chains,strong,binding,restrictive,metallic,durable
+Challenger Explosion,tragic,historic,shocking,heartbreaking,momentous
+Chameleons,colorful,adaptive,mysterious,unique,elusive
+Charging Rhinos,powerful,threatening,forceful,intimidating,wild
+Cheesecake,delicious,rich,creamy,decadent,sweet
+Cher,iconic,talented,dynamic,diva,long-lasting
+Chicago,windy,vibrant,cultural,historic,bustling
+Chicken Pox,itchy,contagious,childhood,vaccine,spots
+Chickens,farm,feathers,clucking,eggs,pecking
+Chimpanzees,intelligent,wild,playful,social,primates
+China,ancient,cultural,populous,Great Wall,tea
+Chinatown,vibrant,cultural,ethnic,food,markets
+Choir Boys,angelic,harmonious,youthful,choral,sacred
+Chorus Girls,dazzling,performative,dance,showbiz,glamorous
+Cigarette Burns,damaging,accidental,painful,fire,hazard
+Cigarettes,addictive,smoky,unhealthy,tar,nicotine
+Cinco de Mayo,festive,Mexican,heritage,celebration,parades
+Cindy Crawford,iconic,supermodel,beauty,fashion,mole
+Clark Gable,charming,classic,actor,"Gone With The Wind",handsome
+Claude Monet,impressionist,painter,waterlilies,artist,beauty
+Cleaning The Bathroom,necessary,tedious,hygienic,chore,scrubbing
+Cleopatra,ancient,Egyptian,queen,pharaoh,legendary
+Clint Eastwood,rugged,director,actor,"Dirty Harry",iconic
+Clowns,comedic,scary,entertaining,circus,colorful
+Cocaine,illegal,addictive,dangerous,drug,stimulant
+Cockroaches,survivors,pests,creepy,indestructible,nocturnal
+Coconuts,tropical,hard,water,milk,beach
+Cold Pizza,cold-blooded,leftovers,convenient,fast food,comforting
+Communists,political,revolutionary,ideological,controversial,historical
+Commuting,daily,tedious,necessary,public transportation,exhausting
+Computer Hackers,skilled,unethical,intelligent,tech-savvy,criminal
+Computers,essential,innovative,ubiquitous,high-tech,intelligent
+Confucius,wise,philosophical,ancient,Chinese,thoughtful
+Conspiracy Theories,controversial,unbelievable,speculative,mysterious,paranoid
+Construction Workers,hard-working,skillful,industrious,outdoor,essential
+Corn On The Cob,summer,tasty,traditional,barbecue,juicy
+Corvettes,sporty,luxurious,fast,stylish,iconic
+Count Dracula,terrifying,legendary,nocturnal,transylvanian,immortal
+Country Music,traditional,emotional,cultural,storytelling,authentic
+Cow-Pies,natural,unpleasant,farm,organic,biodegradable
+Crazy Horse,historical,indigenous,warrior,legendary,respected
+Creamed Corn,comfort food,creamy,side dish,traditional,soft
+Crystal Balls,mystical,predictive,ornamental,psychic,shiny
+Cuba,island,Caribbean,communist,cultural,historic
+Cults,extreme,manipulative,dangerous,secretive,controversial
+Custer's Last Stand,historical,battle,defeat,military,American history
+Dandruff,unpleasant,common,flaky,scalp condition,itchy
+Danielle Steel,prolific,romantic,author,successful,novelist
+Danny DeVito,versatile,funny,talented,short,actor
+Dark Alleys,dangerous,ominous,shady,urban,eerie
+Darth Vader,iconic,evil,masked,Star Wars,villainous
+Dating,romantic,awkward,exciting,relationship,social
+David Letterman,comedian,late-night host,legendary,entertaining,interviewer
+Daytime TV,television,entertaining,soaps,informative,relaxing
+Death Valley,desolate,extreme,scorching,desert,national park
+Deer Hunting,traditional,sporting,outdoor,ethical,game
+Demi Moore,actress,successful,beautiful,talented,iconic
+Democrats,political,liberal,progressive,policy,party
+Denzel Washington,actor,talented,versatile,charismatic,legendary
+Detroit,urban,industrial,city,motor city,struggling
+Diamonds,precious,gems,shiny,luxurious,sparkling
+Discos,dancing,nightlife,retro,loud,glamorous
+Discovering America,historical,exploration,Christopher Columbus,expedition,pioneering
+Disneyland,theme park,magical,fun,entertainment,Disney
+Divorce,separation,legal,emotional,breakup,ending
+Doctors,medical,professionals,healthcare,physicians,experts
+Doing The Dishes,chores,domestic,housework,cleansing,kitchen
+Dolly Parton,iconic,singer-songwriter,entertainer,talented,inspirational
+Dr. Kevorkin,controversial,physician,advocate,ethicist,polarizing
+Dr. Seuss,author,children's books,imaginative,creative,whimsical
+Driving Off A Cliff,terrifying,accident,dangerous,reckless,fatal
+Duct Tape,versatile,sticky,adhesive,handy,repair
+E-Mail,digital,communication,electronic,message,online
+Ear Wax,sticky,ear canal,hygienic,protective,waxy
+Earthquakes,natural disaster,seismic,destructive,tremor,tectonic
+Earwigs,insects,creepy,crawling,garden pest,pincer
+East Coast,region,coastline,Atlantic Ocean,urban,New York
+Eddie Murphy,comedian,actor,funny,talented,legendary
+Eleanor Roosevelt,First Lady,activist,diplomat,inspirational,progressive
+Electric Eels,shocking,electrifying,marine,water,creature
+Electricity,powerful,energy,electrical,current,technology
+Elephants,majestic,giant,endangered,ivory,tusks
+Elizabeth Taylor,actress,Hollywood,iconic,beauty,talented
+Elvis Presley,rock and roll,legendary,musician,king of rock,iconic
+Emily Dickinson,poet,lyricist,hermit,prolific,deep
+Ernest Hemingway,author,writer,literary,adventurous,nobel prize winner
+Europe,continent,diverse,European Union,historical,cultural
+Exorcism,ritual,spiritual,possessed,religious,demonic
+Eyes,vision,perception,visual,ocular,sight
+Falling Down,accidental,unexpected,gravity,tumble,descend
+Family Reunions,gathering,relatives,celebration,kinship,memories
+Family Vacations,travel,relaxation,memories,bonding,fun
+Family Values,tradition,ethics,morality,culture,unity
+Fast Food,quick,convenient,junk food,restaurant,drive-thru
+Feathers,plumage,birds,soft,ornamental,flight
+Feminists,activists,advocates,equality,women's rights,movement
+Festering Wounds,infected,pus,painful,unhealthy,inflammation
+Fidel Castro,revolutionary,politician,Cuban,controversial,leader
+Firefighters,brave,heroes,emergency,rescue,firefighting
+Firestorms,wildfire,blaze,uncontrollable,destructive,inferno
+Fireworks,pyrotechnics,celebration,explosive,light,spectacle
+First Man On The Moon,historic,Neil Armstrong,space,exploration,achievement
+Flipper,dolphin,mammal,television show,sea creature,intelligent
+Fly Fishing,angling,sport,recreational,angling technique,outdoor
+Flying Monkeys,fantasy,creature,mythical,The Wizard of Oz,menacing
+Forest Fires,blaze,woodland,wildfire,destructive,smoke
+Fort Knox,treasury,gold,secure,stronghold,military base
+Fourth Of July,independence,celebration,patriotic,fireworks,American holiday
+Frank Lloyd Wright,architect,innovative,designer,modernist,visionary
+Frank Sinatra,singer,entertainer,legendary,iconic,talented
+Freckles,skin,spots,pigmentation,facial feature,beauty
+Freedom,liberty,independence,choice,autonomy,free will
+French Wines,vin,France,grapes,vineyards,winemaking
+Fresh Water Pearls,jewelry,pearl farming,lustrous,iridescent,harvest
+Friction,opposition,conflict,resistance,tension,disagreement
+Fund Raising,charity,financial support,philanthropy,campaign,raising money
+Funerals,mourning,memorial,ceremony,death,sadness
+Fur,animal skin,pelt,coat,warmth,controversial
+Fuzz,soft,hair,down,lint,fluff
+Gall Bladder,organ,bile,digestive system,health,medical
+Gang Members,criminals,street,organized crime,violence,gangsters
+Garrison Keillor,writer,radio host,humorist,storyteller,A Prairie Home Companion
+Garth Brooks,country music,singer,legendary,iconic,entertainer
+Geishas,Japanese,entertainment,culture,tradition,art
+Gen. George S. Patton,general,World War II,military,strategy,leader
+Genetic Engineering,biology,manipulation,biotechnology,modification,science
+George W. Bush,president,United States,Republican,politician,Texas
+George Washington,first president,revolutionary leader,Founding Father,commander-in-chief,American history
+Georgia O'Keeffe,artist,painter,modernist,flowers,southwest landscapes
+Getting A Hug,affectionate,embrace,physical contact,warmth,comfort
+Ghost Towns,abandoned,desolate,former settlement,haunted,empty
+Ghosts,spirits,apparitions,paranormal,haunting,afterlife
+Giant Squid,marine,cephalopod,deep sea,large,mythical
+Gila Monsters,lizard,reptile,venomous,southwestern,prehistoric
+Gingko Trees,tree,deciduous,foliage,ancient,medicinal
+Ginseng,herb,medicinal,root,traditional medicine,Asian
+Girl Scouts,youth organization,cookies,community service,leadership,girls
+Girlfriends,romantic partner,significant other,relationship,love,companion
+Giving A Hug,affectionate,embrace,physical contact,warmth,comfort
+Glaciers,ice,ice cap,melting,polar,environmental
+Glazed Donuts,pastry,sweet,treat,bakery,icing
+Global Warming,climate change,environment,temperature rise,greenhouse gases,weather
+Going To Church,religious,spiritual,faith,community,prayer
+Going To Grandma's,family visit,home-cooked meal,love,memories,tradition
+Going To School,education,learning,schoolwork,classmates,teachers
+Going To The Dentist,dental appointment,oral hygiene,check-up,health,teeth
+Going To The Gym,exercise,fitness,workout,health,strength
+Gold Chains,jewelry,valuable,luxury,fashion,accessory
+Goldfish,pet,aquarium,freshwater,orange,swimming
+Golf-Ball-Sized Hail,weather,hailstorm,large,destructive,precipitation
+Grace Kelly,actress,princess,elegant,classic,Hollywood
+Graffiti,street art,vandalism,spray paint,urban,expression
+Grass Skirts,Hawaiian,traditional,costume,hula,Polynesian
+Grave Robbers,theft,illegal,cemetery,desecration,historical
+Gravity,physics,force,attraction,weight,universal
+Greenpeace,environmental,activism,organization,conservation,protest
+Gym Teachers,education,physical fitness,coach,school,exercise
+Hair Transplants,surgery,baldness,restoration,follicles,cosmetic
+Hairballs,cats,fur,coughing,grooming,pet health
+Halloween,holiday,October 31st,costumes,trick-or-treating,spooky
+Hand Grenades,explosives,military,weapon,warfare,dangerous
+Handcuffs,restraint,law enforcement,police,arrest,shackles
+Handguns,firearms,pistol,self-defense,weapon,shooting
+Hangnails,irritation,finger,nail,painful,grooming
+Having A Baby,childbirth,pregnancy,parenthood,family,joy
+Having An Operation,surgery,medical procedure,hospital,recovery,anesthesia
+Hawaii,island,Pacific Ocean,tropical,paradise,aloha
+Helen Keller,advocate,author,deaf-blind,inspirational,education
+Hiccups,involuntary,spasms,diaphragm,annoying,hic
+High School Football,sports,Friday nights,team spirit,rivalry,touchdowns
+High School Reunions,classmates,nostalgia,memories,gathering,reconnecting
+Hillary Rodham Clinton,politician,senator,secretary of state,presidential candidate,public figure
+Hiroshima,atomic bomb,World War II,devastation,Japan,historical
+HMOs,health care,insurance,managed care,medical,coverage
+Hockey,ice,puck,skates,goal,sport
+Hollywood,film industry,movies,celebrities,glamour,entertainment
+Homeless Shelters,housing,support,charity,poverty,community
+Homer Simpson,cartoon character,The Simpsons,beer,donuts,comedic
+Homework,assignments,studying,school,learning,tasks
+Hooligans,troublemakers,unruly,rowdy,mischief,delinquents
+Horseback Riding,equestrian,horse,saddle,riding,leisure
+Hot Lava,game,childhood,pretend,imaginary,volcanic
+House Guests,visitors,hospitality,accommodations,hosting,stay
+Hummingbirds,birds,small,colorful,rapid wings,nectar
+Humphrey Bogart,actor,classic films,Casablanca,tough guy,legend
+Icebergs,ice,floating,Antarctic,Titanic,glacier
+In A Coma,unconscious,medical condition,sleep-like,coma state,coma ward
+Incense,aromatic,fragrance,burning,spiritual,relaxation
+India,South Asia,diverse,culture,Bollywood,Taj Mahal
+Indiana Jones,adventurer,archaeologist,whip,hat,Harrison Ford
+Industrial Revolution,manufacturing,innovation,steam engine,factories,urbanization
+Infomercials,television,advertising,product promotion,demonstration,sales
+Inside The Sun,solar,heat,nuclear fusion,plasma,core
+Intellectuals,thinkers,scholars,academics,intellectuals,knowledge
+Ireland,Celtic,green,shamrock,Dublin,St. Patrick's Day
+Israel,Middle East,Jerusalem,Jewish,Tel Aviv,Holy Land
+Italy,Mediterranean,Rome,pasta,pizza,Renaissance
+Jack Nicholson,actor,The Shining,iconic,legendary,Hollywood
+Jack The Ripper,serial killer,mystery,Victorian London,unsolved
+Jackie Chan,martial arts,actor,stuntman,action,comedy
+Jacques Cousteau,oceanographer,explorer,marine conservationist,documentary filmmaker
+Jamaica,Caribbean,reggae,Bob Marley,beaches,jerk chicken
+James Bond,spy,MI6,007,espionage,action
+James Dean,actor,Rebel Without a Cause,icon,Hollywood,tragic
+Japan,East Asia,Tokyo,sushi,samurai,technology
+Japanese,people,culture,language,sushi,anime
+Jelly Beans,candy,colorful,sweet,Easter,flavors
+Jennifer Lopez,singer,actress,dancer,J.Lo,multi-talented
+Jerry Springer,talk show host,controversial,tabloid,The Jerry Springer Show
+Jesse Jackson,civil rights activist,reverend,Rainbow PUSH Coalition,politician
+Jesse Ventura,wrestler,actor,governor,conspiracy theorist,Navy SEAL
+Jim Carrey,comedian,actor,comedian,rubber-faced,versatile
+Jimmy Stewart,actor,It's a Wonderful Life,classic Hollywood,beloved
+Joan Of Arc,French heroine,saint,medieval,warrior,martyr
+Jodie Foster,actress,director,Silence of the Lambs,talented,versatile
+John F. Kennedy,president,Camelot,JFK,assassinated,political dynasty
+John Glenn,astronaut,space pioneer,senator,Mercury Seven,American hero
+John Philip Sousa,composer,marches,The Stars and Stripes Forever,bandmaster
+John Travolta,actor,dancer,Saturday Night Fever,Pulp Fiction,iconic
+Judge Judy,television judge,reality TV,no-nonsense,Judy Sheindlin
+Julia Roberts,actress,Pretty Woman,Oscar winner,America's sweetheart
+Junk Mail,unsolicited mail,spam,advertisements,flyers,nuisance
+Jupiter,planet,gas giant,solar system,largest,Jupiter's moons
+Katherine Hepburn,actress,Hollywood legend,The Philadelphia Story,iconic
+Keanu Reeves,actor,The Matrix,John Wick,beloved,enigmatic
+Killer Whales,orcas,marine mammals,apex predators,black and white
+Kilts,Scottish,traditional,tartan,men's skirt,Highlander
+King Arthur,legendary,Camelot,Excalibur,Knights of the Round Table,medieval
+King Henry VIII,Tudor,monarch,six wives,England,historical
+Knock-Knock Jokes,humor,puns,wordplay,silly,door
+Labor Unions,workers,collective bargaining,strikes,organized,rights
+Large Mouth Bass,fish,freshwater,angling,sport fishing,bass fishing
+Las Vegas,city,Nevada,gambling,entertainment,The Strip
+Lawyers,attorneys,legal,counsel,courtroom,litigation
+Leaf Blowers,gardening,yard work,tool,landscaping,noisy
+Leather,material,animal hide,durable,fashion,craftsmanship
+Leeches,bloodsuckers,medical,ancient,therapy,leeching
+Lemons,citrus,sour,yellow,lemonade,cooking
+Lenin's Tomb,Moscow,Russia,mausoleum,Vladimir Lenin,Red Square
+Leonardo Da Vinci,artist,inventor,Renaissance man,Mona Lisa,polymath
+Lightning,electricity,storm,thunder,bolt,atmospheric discharge
+Loan Sharks,illegal,predatory lending,extortion,criminal,debt
+Lobster,seafood,crustacean,delicious,expensive,clawed
+Local Police,law enforcement,officers,community,public safety,patrol
+Log Cabins,rustic,wooden,home,wilderness,pioneer
+Lollipops,candy,sweet,sucker,children,treat
+London,capital,England,UK,Thames River,historic
+Looking For A Job,job search,unemployment,career,interviews,resumes
+Los Angeles,city,California,Hollywood,entertainment,diverse
+Losing Your Job,unemployment,termination,layoff,downsizing,job loss
+Lucille Ball,actress,comedian,I Love Lucy,redhead,television
+Machine Guns,firearms,automatic,military,weapon,rapid-fire
+Mad Cow Disease,BSE,bovine spongiform encephalopathy,prion,cattle,brain disease
+Madame Curie,scientist,physicist,chemist,Nobel Prize,radioactivity
+Madonna,singer,pop icon,Queen of Pop,Material Girl,Madonna Louise Ciccone
+Magic Tricks,illusion,sleight of hand,magician,entertainment,prestidigitation
+Mahatma Gandhi,leader,India,independence,nonviolent resistance,civil rights
+Manhattan,borough,New York City,skyline,Times Square,Central Park
+Mardi Gras,festival,New Orleans,Fat Tuesday,carnival,beads
+Marilyn Monroe,actress,icon,blonde bombshell,Hollywood,Norma Jeane Mortenson
+Mark Twain,author,humorist,The Adventures of Huckleberry Finn,Samuel Clemens
+Marriage,wedding,union,vows,commitment,partnership
+Mars,planet,red planet,NASA,exploration,Martian
+Martha Stewart,entrepreneur,homemaking,lifestyle,Martha Stewart Living
+Martin Luther King,Jr.,civil rights leader,activism,I Have a Dream,Nobel Peace Prize
+Meat Cleavers,kitchen tool,butcher,chopping,blade,cooking
+Meatloaf,dish,ground meat,loaf,comfort food,dinner
+Meg Ryan,actress,romantic comedies,Sleepless in Seattle,When Harry Met Sally,You've Got Mail
+Mel Gibson,actor,director,Braveheart,Lethal Weapon,controversial
+Men,males,gender,masculinity,boys,guys
+Men In Black,movie,science fiction,aliens,Will Smith,Tommy Lee Jones
+Meryl Streep,actress,Oscars,The Iron Lady,Sophie's Choice,versatile
+Mexico,country,North America,culture,tacos,beaches
+Mice,rodents,small mammals,squeak,cheese,pest
+Michael Jackson,singer,pop icon,King of Pop,Thriller,moonwalk
+Michael Jordan,basketball player,NBA,Chicago Bulls,Air Jordan,GOAT
+Michelangelo,artist,Renaissance,sculptor,painter,Sistine Chapel
+Michelle Pfeiffer,actress,Catwoman,Scarface,Dangerous Liaisons,iconic
+Microsoft,technology,software,Windows,Bill Gates,computer
+Midlife Crisis,psychological,age,identity,transition,existential
+Mike Tyson,boxer,heavyweight champion,Iron Mike,controversial
+Miles Davis,musician,jazz,trumpet,Kind of Blue,innovator
+Milk,dairy,calcium,white,cow,lactose
+Milk Duds,candy,chocolate,caramel,movie theater,chewy
+Mirrors,reflection,glass,vanity,perception,self-image
+Mold,fungus,mildew,growth,damp,spores
+Money,currency,wealth,finances,cash,dollars
+Morticians,funeral directors,embalmers,undertakers,funeral homes,cremation
+Mosquitoes,insects,bites,bloodsuckers,buzzing,malaria
+Motorcycles,bikes,two-wheelers,Harley-Davidson,riding,motorcycle gangs
+Mount Rushmore,monument,South Dakota,presidents,sculpture,granite
+MTV,music television,channel,videos,pop culture,reality TV
+Mud,dirt,wet,soil,muddy,earth
+Mudslides,natural disasters,landslides,erosion,destruction,heavy rain
+Muhammad Ali,boxer,heavyweight champion,Cassius Clay,The Greatest,legend
+Musicals,theater,Broadway,singing,dancing,stage
+My 16th Birthday,milestone,celebration,teenager,sweet sixteen,party
+My Bank Account,finances,money,savings,balance,transactions
+My Bathroom,hygiene,personal care,shower,toilet,sink
+My Bedroom,personal space,relaxation,sleep,comfort,decor
+My Body,physical self,anatomy,health,appearance,wellness
+My Boss,supervisor,manager,employer,work,authority
+My Dreams,aspirations,goals,ambitions,desires,subconscious
+My Family,relatives,loved ones,parents,siblings,home,support
+My First Kiss,romantic,memorable,adolescence,love,innocence
+My Friends,companions,buddies,pals,social circle,camaraderie
+My Future,destiny,potential,goals,aspirations,uncertainty
+My Hair,haircare,hairstyle,grooming,follicles,appearance
+My High School Prom,formal dance,teenagers,dresses,tuxedos,memories
+My Job,employment,career,workplace,responsibilities,income
+My Love Life,romantic relationships,dating,emotions,intimacy,heartbreak
+My Mind,thoughts,intellect,consciousness,cognition,mental health
+My Neighborhood,community,neighbors,environment,local area,streets
+My Past,history,memories,experiences,nostalgia,lessons
+My Personality,traits,characteristics,behavior,temperament,identity
+My Refrigerator,appliance,food storage,groceries,organization,contents
+Napoleon Bonaparte,French emperor,military leader,conqueror,Napoleon I,historic figure
+NASCAR,racing,motorsport,stock cars,speedway,Daytona 500
+Neil Simon,playwright,comedy,Broadway,The Odd Couple,Pulitzer Prize
+New Orleans,city,Louisiana,jazz,Mardi Gras,French Quarter
+New Shoes,footwear,fashion,shopping,comfort,style
+New York City,NYC,Big Apple,Manhattan,Times Square,Statue of Liberty
+Niagara Falls,waterfall,natural wonder,Canada,honeymoon destination
+Nicholas Cage,actor,films,Hollywood,eccentric,Nicolas Coppola
+Ninjas,warriors,stealth,Japan,martial arts,assassins
+Nobel Peace Prize,award,recognition,peace,Nobel Committee,Alfred Nobel
+Noisy Neighbors,neighbors,noise,disturbance,annoyance,apartment
+Normal Rockwell,artist,illustrator,Americana,Saturday Evening Post,paintings
+Nuclear Power Plants,energy,reactors,nuclear fission,electricity,radiation
+NYPD,New York City Police Department,law enforcement,cops,officers,crime
+Oil Spills,environmental disasters,pollution,marine life,crude oil,Exxon Valdez
+Olive Oil,cooking,Mediterranean,healthy,oil,salad dressing
+On-Line Shopping,e-commerce,internet,Amazon,online retail,convenience
+Oprah Winfrey,talk show host,media mogul,philanthropist,Oprah,TV
+Oral Surgery,dental,dentist,teeth,procedure,anesthesia
+Oranges,citrus fruit,vitamin C,Florida,orange juice,breakfast
+Oxygen,air,element,breathing,atmosphere,essential
+Pablo Picasso,artist,painter,Cubism,Guernica,modern art
+Parenting,raising children,family,responsibility,guidance,love
+Paris,France,capital,Eiffel Tower,Seine River,culture,romance
+Paying Bills,finances,expenses,budgeting,utilities,obligations
+Paying Taxes,taxation,government,IRS,income tax,deductions
+Penguins,birds,Antarctica,flightless,waddle,cold climate
+Picking Your Nose,hygiene,behavior,manners,embarrassing,booger
+Pigeons,birds,urban,city,flying,cooing
+Pigs,farm animals,bacon,pork,oink,pigsty
+Piranha,fish,Amazon River,carnivorous,teeth,dangerous
+Pirates,buccaneers,pirates of the Caribbean,treasure,plunder,sea
+Pit Bulls,dog breed,muscular,loyal,misunderstood,American Staffordshire Terrier
+Plane Crashes,aviation accidents,disasters,air travel,investigations,safety
+Plastic,synthetic,polymer,material,versatile,pollution
+Playing Chess,board game,strategy,intellect,pieces,checkmate
+Poison Ivy,plant,rash,allergic reaction,itch,foliage
+Pokemon,video games,anime,trading cards,Pikachu,Nintendo
+Pond Scum,algae,green,water,slimy,ecosystem
+Poodles,dog breed,curly,hypoallergenic,intelligent,grooming
+Popcorn,snack,movie theater,kernels,butter,salty
+Porsche Boxster,sports car,luxury,convertible,German engineering,speed
+Postal Workers,mail carriers,USPS,delivery,packages,mailman
+Power Tools,tools,electric,cordless,DIY,construction
+Prince Charming,fairy tale,Cinderella,charming,prince,happily ever after
+Princess Di,Princess Diana,royalty,humanitarian,tragic,British
+Pro Wrestling,professional wrestling,WWE,entertainment,wrestlers,matches
+Psychiatrists,doctors,mental health,therapy,diagnosis,psychiatry
+Psychics,clairvoyants,fortune tellers,supernatural,psychic powers
+Public Radio,broadcasting,NPR,news,culture,radio stations
+Puff Daddy,rapper,producer,entrepreneur,Sean Combs,music industry
+Pulling Weeds,gardening,yard work,removal,unwanted plants,maintenance
+Pumping Iron,weightlifting,exercise,muscles,gym,strength training
+Pushups,exercise,calisthenics,upper body,strength,fitness
+Pyramids,ancient,Egypt,pharaohs,tombs,archaeology
+Quentin Tarantino,filmmaker,director,Pulp Fiction,Kill Bill,Reservoir Dogs
+Quicksand,sediment,sink,danger,trap,fluid
+Ragweed,plant,allergies,pollen,sneezing,hay fever
+Rain,precipitation,water,weather,storm,drizzle
+Rainbows,meteorological,spectrum,colors,refraction,after rain
+Rappers,hip hop artists,music,rap,lyrics,beats
+Reading A Good Book,literature,novels,stories,relaxation,escape
+Recreational Vehicles,RVs,motorhomes,camping,travel,road trips
+Recycling,environment,sustainability,waste management,reuse,reduce,recycle
+Red Raspberries,fruit,berries,summer,sweet,antioxidant
+Rednecks,stereotype,rural,southern,culture,country
+Redwood Forests,trees,California,giant,sequoias,nature
+Reggae Music,music genre,Jamaica,Bob Marley,rhythm,beats
+Regis Philbin,television host,game shows,Live with Regis and Kathie Lee,Who Wants to Be a Millionaire?
+Remote Controls,electronics,devices,television,channels,wireless
+Republicans,political party,conservative,GOP,politics,United States
+Richard Nixon,politician,president,Watergate scandal,Republican,resignation
+Robert De Niro,actor,films,Taxi Driver,Raging Bull,The Godfather Part II
+Road Kill,animals,road accidents,carcasses,highways,wildlife
+Road Trips,travel,adventure,journey,driving,vacations
+Robin Williams,comedian,actor,Mrs. Doubtfire,Good Will Hunting,stand-up
+Rock And Roll,music genre,Elvis Presley,guitar,rhythm,blues
+Rock Concert,live music,band,venue,audience,performance
+Rocket Scientists,aerospace engineers,NASA,space exploration,rockets,propulsion
+Rocky Mountains,mountain range,North America,Colorado,wilderness,Rockies
+Rolling The Car,accident,vehicle,crash,overturning,automotive
+Roman Numerals,numeral system,ancient,symbols,counting,arithmetic
+Romeo And Juliet,Shakespeare,tragedy,love story,Verona,star-crossed lovers
+Root Beer Floats,dessert,soda,ice cream,drink,classic
+Rosa Parks,civil rights activist,Montgomery Bus Boycott,segregation,NAACP
+Rosie O'Donnell,comedian,actress,talk show host,The Rosie O'Donnell Show
+Rubber Gloves,protective gear,cleaning,household chores,latex,medical
+Running A Marathon,endurance,race,long distance,fitness,training
+Rush Limbaugh,radio host,conservative commentator,The Rush Limbaugh Show
+Russia,country,Eurasia,Moscow,Putin,Soviet Union
+Rust,oxidation,metal,corrosion,decay,rusting
+Saddam Hussein,politician,dictator,Iraq,Gulf War,controversial
+Sailors,navy,seafarers,ships,maritime,sailors
+Salads,food,vegetables,greens,dressing,healthy
+Salsa Dancing,dance,Latin,rhythm,partner,salsa music
+Salvador Dali,artist,surrealist,paintings,melting clocks,eccentric
+Samuel L. Jackson,actor,films,Pulp Fiction,Snakes on a Plane,versatile
+Saturday Cartoons,television,animation,childhood,Saturday morning,cartoons
+San Francisco,city,California,Bay Area,Golden Gate Bridge,culture
+Saturn,planet,solar system,rings,gas giant,NASA
+Scavenger Hunt,game,search,clues,treasure,scavenger
+Scene Of The Crime,investigation,crime scene,evidence,police,detectives
+Schindler's List,film,Holocaust,Oskar Schindler,Steven Spielberg,World War II
+Science Fair Projects,education,experiments,students,STEM,presentation
+Science Fiction,genre,literature,films,futuristic,speculative
+Screeching,noise,high-pitched,tires,brakes,screech
+Sean Connery,actor,James Bond,Scottish,The Untouchables,Bond
+Shania Twain,singer,country music,pop,Shania,Canadian
+Sharks,marine animals,ocean,predators,fins,jaws
+Shopping Mall,retail,stores,shopping,consumerism,mall
+Silk,fabric,luxurious,smooth,textiles,silk worms
+Silly Putty,toy,polymer,bouncy,stretchy,fun
+Skateboarding,sport,skateboard,tricks,ramps,halfpipe
+Skiing,winter sport,snow,slopes,skiing resort,downhill
+Skinheads,subculture,shaved heads,boots,punk,extremism
+Skunks,mammals,black and white,stinky,odor,wildlife
+Skydiving,parachuting,adrenaline,freefall,extreme sport,jump
+Sleeping Pills,medication,insomnia,sleep aid,prescription,sedative
+Slivers,splinters,wood,pain,removal,tiny
+Sloppy Joes,sandwich,ground meat,sauce,comfort food,messy
+Smithsonian Institution,museum,Washington D.C.,culture,history,exhibitions
+Snakes,reptiles,slither,venomous,fear,serpent
+Snow,precipitation,winter,cold,flakes,snowball
+Social Security,retirement,benefits,government,elderly,insurance
+Socks,footwear,socks,pairs,comfort,warmth
+South Africa,country,Africa,apartheid,Mandela,Cape Town
+South Park,animated series,comedy,satire,television,Cartman
+Soy Sauce,condiment,Asian cuisine,salty,umami,sushi
+Spam,canned meat,email spam,unwanted messages,junk,advertisement
+Speeding Tickets,traffic violation,fine,speeding,police,driving
+Spiders,arachnids,webs,venom,creepy-crawly,insects
+Spike Lee,filmmaker,director,Do the Right Thing,Malcolm X,Brooklyn
+Spilled Milk,accidents,mess,cleanup,dairy,liquid
+Spit,saliva,expectorate,saliva glands,moisture,eject
+Spontaneous Combustion,fire,ignition,heat,spontaneous,combustion
+Sport Utility Vehicles,SUVs,cars,off-road,transportation,vehicles
+Sports Channels,television,ESPN,sports programming,broadcasts,games
+Star Fruit,tropical fruit,carambola,sweet,tangy,exotic
+Starry Night,painting,Vincent van Gogh,sky,stars,masterpiece
+State Fair,event,fairgrounds,rides,agriculture,food
+Steak And Potatoes,meal,beef,meat,mashed potatoes,dinner
+Stephen King,author,novels,horror,The Shining,It
+Steve Martin,actor,comedian,The Jerk,comedy,banjo
+Steven Spielberg,filmmaker,director,Jaws,E.T.,Jurassic Park
+Stonehenge,ancient,monument,England,prehistoric,stones
+Strawberry Shortcake,dessert,cake,strawberries,whipped cream,sweet
+Stubbed Toes,pain,accident,injury,foot,clumsiness
+Stunt People,performers,daredevils,action movies,dangerous,stunts
+Summer Camp,campers,outdoors,activities,cabins,recreation
+Sunday Drivers,leisurely,slow,drivers,roads,traffic
+Superman,superhero,comic books,DC Comics,Man of Steel,Clark Kent
+Supermodels,fashion,modeling,beauty,catwalk,magazine covers
+Surfing The Net,internet,browsing,online,web surfing,digital
+Sushi,Japanese cuisine,raw fish,sushi rolls,soy sauce,wasabi
+Swiss Bank Accounts,banking,secrecy,wealth,Switzerland,accounts
+Swiss Chocolate,chocolate,confectionery,Switzerland,indulgence,Toblerone
+Swiss Cheese,cheese,dairy,holes,Emmental,fondue
+Taking A Bath,hygiene,relaxation,bathtub,bubbles,soaking
+Talk Radio,radio shows,conversation,opinions,talk show hosts,broadcasts
+Teachers,educators,instructors,schooling,mentors,education
+Telemarketers,sales,phone calls,solicitation,annoyance,marketing
+Televangelists,religious,television,preachers,evangelism,faith
+Television,TV,entertainment,broadcasting,programs,channels
+Telling The Truth,honesty,integrity,sincerity,trustworthiness,confession
+Terrorist Attack,terrorism,violence,tragedy,bombings,security
+Thanksgiving Day,holiday,gratitude,turkey,family,feast
+The 1920s,Roaring Twenties,jazz age,prohibition,flappers,Great Gatsby
+The 1950s,post-war era,baby boom,rock and roll,Eisenhower,McCarthyism
+The 1960s,counterculture,civil rights,Vietnam War,Woodstock,hippies
+The 1970s,disco era,Watergate scandal,bell-bottoms,Nixon,oil crisis
+The 1980s,Reagan era,MTV,Cold War,pop culture,neon fashion
+The 21st Century,modern era,digital age,technology,globalization,advancements
+The Academy Awards,Oscars,Hollywood,film industry,awards ceremony,movies
+The Beach,shore,sand,ocean,relaxation,sun
+The Beatles,music,band,British,rock and roll,John Lennon
+The CIA,Central Intelligence Agency,intelligence,espionage,government,spies
+The Cold War,geopolitical,tension,Soviet Union,United States,nuclear arms race
+The Common Loon,bird,waterfowl,loons,lakes,nature
+The Dallas Cowboys,NFL team,football,Dallas,Texas,sports
+The Dump,landfill,garbage,waste disposal,refuse,trash
+The Eiffel Tower,landmark,Paris,France,iconic,architecture
+The Electric Chair,execution,capital punishment,death penalty,lethal injection
+The End Of The World,apocalypse,doomsday,Armageddon,cataclysm,extinction
+The Everglades,national park,Florida,wetlands,wildlife,conservation
+The Far Left,political spectrum,liberalism,progressives,radicals,left-wing
+The Far Right,political spectrum,conservatism,right-wing,extremists
+The FBI,Federal Bureau of Investigation,law enforcement,federal agency,crime
+The First Day Of School,education,beginning,nervousness,excitement,students
+The French Riviera,Mediterranean,coastline,luxury,beaches,Côte d'Azur
+The Godfather,film,mafia,crime,gangsters,Marlon Brando
+The Grand Canyon,natural wonder,Arizona,canyon,geology,Colorado River
+The Grateful Dead,band,music,psychedelic rock,Jerry Garcia,concerts
+The Great Chicago Fire,disaster,Chicago,1871,fire,rebuilding
+The Great Depression,economic downturn,1930s,unemployment,stock market crash
+The Green Bay Packers,NFL team,football,Wisconsin,championships,Lambeau Field
+The Gulf War,conflict,Iraq,Kuwait,Operation Desert Storm,1990-1991
+The Indy 500,Indianapolis 500,auto racing,Indianapolis Motor Speedway,cars
+The Internet,World Wide Web,digital,connectivity,information,browsing
+The IRS,Internal Revenue Service,taxes,government,revenue,tax returns
+The JFK Assassination,John F. Kennedy,assassination,Dallas,Lee Harvey Oswald
+The KKK,Ku Klux Klan,hate group,racism,white supremacy,terrorism
+The Land Of Oz,fictional,fantasy,The Wizard of Oz,Dorothy,Emerald City
+The Little Mermaid,fairy tale,Hans Christian Andersen,Disney,Ariel
+The Mafia,organized crime,Sicily,Italy,mobsters,Al Capone
+The Marx Brothers,comedy,films,Groucho,Harpo,Chico,Zeppo
+The Metric System,measurements,units,meters,kilograms,Celsius
+The Midwest,region,United States,agriculture,plains,heartland
+The Milky Way,galaxy,cosmos,stars,astronomy,space
+The Mississippi River,river,United States,Missouri,Louisiana,waterway
+The National Enquirer,tabloid,gossip,sensationalism,celebrity news
+The New York Yankees,MLB team,baseball,New York City,championships,legends
+The NRA,National Rifle Association,gun rights,lobbying,Second Amendment,firearms
+The Ocean,sea,vast,water,marine life,waves
+The Old Man And The Sea,novel,Ernest Hemingway,Pulitzer Prize,Santiago,marlin
+The Olympics,international,sports,games,competition,athletes
+The Opera,musical,theater,classical music,singers,performances
+The Ozone Layer,atmosphere,ozone depletion,UV radiation,protection
+The Pentagon,military,headquarters,United States,defense,Washington D.C.
+The Pyramids,ancient,Egypt,monuments,Giza,pharaohs
+The Renaissance,period,cultural revival,art,literature,Europe
+The Rolling Stones,band,music,rock and roll,Mick Jagger,Keith Richards
+The San Andreas Fault,geological,tectonic plates,California,earthquakes
+The South,region,United States,Southern states,Dixie,culture
+The Statue Of Liberty,monument,New York City,liberty,freedom,Ellis Island
+The Super Bowl,NFL,football,championship,game,halftime show
+The Supreme Court,judiciary,highest court,United States,justices,rulings
+The Three Tenors,opera singers,concerts,Plácido Domingo,Luciano Pavarotti,José Carreras
+The Titanic,ship,disaster,iceberg,sinking,James Cameron
+The Universe,cosmos,space,galaxies,stars,planets
+The Vatican,Holy See,Rome,Catholic Church,Pope,St. Peter's Basilica
+The Vietnam Memorial,monument,Washington D.C.,Vietnam War,veterans,names
+The Williams Sisters,Venus and Serena Williams,tennis,siblings,championships,Grand Slam
+The Wright Brothers,aviation,Orville and Wilbur Wright,inventors,flight,Kitty Hawk
+The YMCA,Young Men's Christian Association,organization,community,fitness,programs
+Thomas Edison,inventor,light bulb,phonograph,electricity,innovation
+Thunder,weather,sound,lightning,storm,rumble
+Tibet,region,Asia,Himalayas,culture,Buddhism
+Ticks,parasites,insects,Lyme disease,bites,bloodsuckers
+Tidal Waves,ocean,tsunami,wave,disaster,natural phenomenon
+Tiger Woods,golfer,PGA Tour,championships,Masters,scandal
+Toasted Marshmallows,campfire,s'mores,sweet,roasting,marshmallow
+Toasters,kitchen appliance,bread,breakfast,toast,appliance
+Tobacco Companies,industry,cigarettes,smoking,health,regulation
+Toes,digits,foot,pedicure,walking,balance
+Tom Cruise,actor,movies,Mission: Impossible,Top Gun,Scientology
+Tom Hanks,actor,movies,Forrest Gump,Cast Away,Academy Awards
+Top Of A Rollercoaster,thrill,height,adrenaline,amusement park,coaster
+Tornadoes,weather,vortex,funnel cloud,storm,destructive
+Toys,playthings,children,games,fun,entertainment
+Trailer Parks,mobile homes,community,housing,living,affordable
+Trampolines,bouncing,jumping,exercise,backyard,safety
+Tree Huggers,environmentalists,conservationists,activism,nature,trees
+Truck Stops,rest areas,highways,transportation,services,truckers
+Tyrannosaurus Rex,dinosaur,prehistoric,extinct,Jurassic Park,fossils
+Underwear,clothing,undergarments,lingerie,briefs,comfort
+United Nations,international organization,diplomacy,peacekeeping,UN,global
+Vacations,holidays,trips,travel,relaxation,leisure
+Vampires,supernatural,folklore,bloodsuckers,Dracula,Twilight
+Victorian England,era,history,Queen Victoria,19th century,industrial revolution
+Video Games,gaming,entertainment,consoles,PC,virtual reality
+Vietnam,1968,war,conflict,Tet Offensive,protests,history
+Vincent Van Gogh,artist,painter,impressionism,Starry Night,Sunflowers
+Violins,musical instruments,strings,orchestra,classical music,violinists
+VW Beetles,cars,Volkswagen,classic,Beetle,iconic
+Waco,Texas,city,Branch Davidians,siege,Texas Rangers,Baylor University
+Wall Street,finance,New York City,stock market,investment,economy
+Walt Disney,company,entertainment,animation,theme parks,Mickey Mouse
+Warts,skin condition,virus,dermatology,witchcraft,folk remedies
+Watching Football,sports,NFL,soccer,fans,games,touchdowns
+Water Parks,amusement parks,slides,pools,water attractions,summertime
+Waterbeds,mattresses,flotation,sleep,comfort,bedroom
+Waterfalls,cascades,nature,scenic,majestic,flowing water
+Watermelons,fruit,summer,refreshing,juicy,seeds
+Weapons Dealers,arms trade,firearms,military equipment,arms industry,conflict
+Weddings,marriage,ceremonies,vows,celebration,love
+Wheat,grain,agriculture,crop,bread,fields
+Wheel Of Fortune,game show,television,prizes,spinning,Vanna White
+Whipped Cream,dessert,topping,dairy,fluffy,indulgent
+Whips,BDSM,leather,punishment,riding,cracking
+Whoopie Goldberg,actress,comedian,The View,Ghost,Sister Act
+Will Smith,actor,rapper,Fresh Prince,Men in Black,Independence Day
+William Shakespeare,playwright,literature,playwright,Hamlet,Romeo and Juliet
+Wimbledon,tennis,Grand Slam,championships,grass court,London
+Windsurfing,water sport,sailing,board,wind,waves
+Wine Tasting,sommelier,vineyard,varietals,bouquet,palate
+Winning The Lottery,luck,fortune,jackpot,money,dream
+Witch Hunts,persecution,Salem,trials,hysteria,witchcraft
+Women,gender,females,empowerment,equality,rights
+Women's Soccer,football,FIFA,World Cup,players,teams
+Wood Chippers,machinery,landscaping,lumber,branches,mulch
+Woodstock,music festival,1969,hippies,peace,love
+Woody Allen,filmmaker,director,actor,Annie Hall,Manhattan,neurotic
+Worms,invertebrates,soil,earthworms,fishing,composting
+X-Ray Vision,superpower,comic books,ability,seeing through objects
+X-Rays,radiation,medical imaging,bones,diagnosis,electromagnetic waves
+Yellowstone Park,national park,Wyoming,geysers,wildlife,nature
+Zen,Buddhism,meditation,mindfulness,enlightenment,Japanese philosophy
+Zucchini,vegetable,squash,green,summer,cooking
