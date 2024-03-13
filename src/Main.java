@@ -87,6 +87,7 @@ public class Main {
 
         if (greenCards.containsKey(inCard)){
 
+            RedCard matchCard = nounSearch(greenCards.get(inCard), redCards);
         }
     } 
 
@@ -154,5 +155,27 @@ public class Main {
         
         return partsList;
     }
+
+    public static RedCard nounSearch(GreenCard adjectiveCard, HashMap<String, RedCard> cards) {
+
+        List<String> adjList = adjectiveCard.getSynonyms();
+
+        RedCard rc = null;
+        for (String noun : cards.keySet()) {
+
+            rc = cards.get(noun);
+            List<String> nounList = rc.getSynonyms();
+
+            boolean match = adjList.retainAll(nounList);
+
+            if (match) {
+                break;
+            }
+
+        }
+
+        return rc;
+    }
+
 }
 
