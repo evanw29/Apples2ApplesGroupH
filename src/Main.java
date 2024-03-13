@@ -2,7 +2,9 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -10,8 +12,8 @@ public class Main {
     public static void main(String[] args) {
 
         // Initialize list of green and red cards
-        List<GreenCard> greenCards = new ArrayList<>();
-        List<RedCard> redCards = new ArrayList<>();
+        HashMap<String, GreenCard> greenCards = new HashMap<>();
+        HashMap<String, RedCard> redCards = new HashMap();
 
         // Reads, formats and adds to list of green cards
         try {
@@ -40,7 +42,7 @@ public class Main {
                 // System.out.println(greenCard.getAdjective() + " " + greenCard.getSynonyms());
 
                 // Adds the green card to the green cards list
-                greenCards.add(greenCard);            
+                greenCards.put(adjective, greenCard);
             }
         } 
         catch (IOException e) {
@@ -67,7 +69,7 @@ public class Main {
                 RedCard redCard = new RedCard(noun, flavourText, redCardsLines); // CHANGE redCardLines to new synonyms list of strings
 
                 // Adds the red card to the list of red cards
-                redCards.add(redCard); 
+                redCards.put(noun, redCard);
             }
         } 
         catch (IOException e) {
@@ -77,6 +79,15 @@ public class Main {
         // For testing purposes
         // System.out.println(greenCards);    
         // System.out.println(redCards);
+
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Enter Green Card: ");
+        String inCard = input.next();
+
+        if (greenCards.containsKey(inCard)){
+
+        }
     } 
 
     // Reads the lines from a given file name

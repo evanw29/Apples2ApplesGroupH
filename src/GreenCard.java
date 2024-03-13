@@ -1,12 +1,16 @@
+import java.io.FileNotFoundException;
 import java.util.List;
+import java.util.Scanner;
+import java.io.File;
 
 public class GreenCard {
     String adjective;
     List<String> synonyms;
 
-    GreenCard(String adjective, List<String> synonyms){
+    GreenCard(String adjective, List<String> synonyms) throws FileNotFoundException {
         this.adjective = adjective;
         this.synonyms = synonyms;
+
     }
 
     public void setAdjective(String adjective) {
