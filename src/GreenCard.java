@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 
-public class GreenCard {
+public class GreenCard implements Card {
     final String adjective;
     List<String> synonyms;
 
