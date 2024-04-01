@@ -1,36 +1,20 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.Objects;
 
 public class RedCard {
-    String noun;
-    String flavourText;
+    final String noun; // Unique identifier
+    final String flavourText;
     List<String> synonyms;
 
-    RedCard(String noun, String flavourText, List<String> synonyms){
-        this.noun = noun;
-        this.flavourText = flavourText;
-        this.synonyms = synonyms;
-    }
-    RedCard(String noun, List<String> synonyms){
-        this.noun = noun;
-        this.synonyms = synonyms;
+    RedCard(String line) {
+        List<String> arguments = new ArrayList<>(Arrays.asList(line.split("&")));
+        this.noun = arguments.get(0).toLowerCase().trim();
+        this.flavourText = arguments.get(1).toLowerCase();
     }
 
-    public void setNoun(String noun) {
-        this.noun = noun;
-    }
-
-    public void setFlavourText(String flavourText) {
-        this.flavourText = flavourText;
-    }
-
-    public void setSynonyms(List<String> synonyms) {
-        this.synonyms = synonyms;
-    }
-    
-    public String getNoun() {
-        return this.noun;
-    }
+    public String getID(){ return this.noun; }
 
     public String getFlavourText() {
         return this.flavourText;
@@ -49,4 +33,16 @@ public class RedCard {
     public String toString() {
         return this.noun + ": " + this.flavourText;
     }
+
+    public boolean equals(Object o) {
+        if (o == null) return false;
+        if (!(o instanceof RedCard)) return false;
+
+        return ((RedCard) o).getID().equals(this.getID());
+    }
+
+    public int hashCode() {
+        return Objects.hashCode(this.noun);
+    }
+
 }

@@ -1,29 +1,28 @@
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
-import java.io.File;
+import java.util.Objects;
 
 public class GreenCard {
-    String adjective;
+    final String adjective;
     List<String> synonyms;
 
-    GreenCard(String adjective, List<String> synonyms) {
-        this.adjective = adjective;
-        this.synonyms = synonyms;
-
+    GreenCard(String line) {
+        List<String> arguments = new ArrayList<>(Arrays.asList(line.split("&")));
+        this.adjective = arguments.get(0).toLowerCase().trim();
+        this.synonyms = new ArrayList<>(Arrays.asList(arguments.get(1).trim().split(", ")));
     }
 
-    public void setAdjective(String adjective) {
-        this.adjective = adjective;
-    }
+    public String getID(){ return this.adjective; }
 
-    public void setSynonyms(List<String> synonyms) {
-        this.synonyms = synonyms;
-    }
+    public void addSynonyms(List<String> s) {
+        // In case of duplicate key, adds unique synonyms from duplicate here.
+        for (String syn : s) {
+            if (!this.synonyms.contains(syn)) {
+                this.synonyms.add(syn);
+            }
+        }
 
-    public String getAdjective() {
-        return this.adjective;
     }
 
     public List<String> getSynonyms() {
@@ -35,4 +34,5 @@ public class GreenCard {
     public String toString() {
         return this.adjective + ": " + this.synonyms;
     }
+
 }
