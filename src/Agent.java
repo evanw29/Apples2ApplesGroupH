@@ -10,7 +10,7 @@ import static java.lang.System.exit;
 public class Agent {
     public static void main(String[] args) {
 
-        /****************** To test agent through intellij ****************/
+        /* ******** To test agent through intellij *************** */
         // click the file selected beside run button triangle
         // click three dots for the Agent class, edit parameters/ arguments
         // copy past following
@@ -65,25 +65,76 @@ public class Agent {
             exit(1);
         }
 
-
+        // Pre-training will be setup here if we want to implement it
 
         // Set up
         Players players = new Players(numPlayers, pointsToWin);
         Scanner input = new Scanner(System.in);
-        Hand agentsHand = new Hand();
+        int winnerID;
+        int winner;
+
 
         // Display
         System.out.println("I assume I am player 1!");
         System.out.print("The other players are:");
         for (int i = 2; i <= numPlayers; i++) System.out.print(i + " ");
         System.out.println("\nPlease enter the red cards dealt to me, one by one.");
-        for (int i = 1; i <= 7; i++) {
-            System.out.println("Card " + i + ": ");
-            String card = input.next();
-            exit(1); // will remove later
-        }
+        Hand agentsHand = new Hand(redCardsPlayed(redCardDeck, 7));
 
-        // Main Loop
+        // Main Loop (Can be refactored / reformatted but not high priority, focus on methods to choose card)
+        boolean loop = true;
+        while (loop) {
+            System.out.println("---------------NEW ROUND------------------");
+            System.out.println("What is my role in this round? (1-player; anything else - judge): ");
+            String choice = input.next();
+            if (!choice.equals("1")) {
+                // Judge interface
+                System.out.println("The green card I selected is:");
+                GreenCard chosenGC = randomCard(greenCardDeck);
+                System.out.println(chosenGC.getID());
+                System.out.println("Now tell me the red cards the other players selected.");
+                Hand judgeHand = new Hand(redCardsPlayed(redCardDeck, numPlayers-1));
+                judgeHand.setGreenCard(chosenGC);
+
+                // Pick Winner
+                RedCard winningRed = judgeHand.chooseCard(false);
+                System.out.println(winningRed.getID());
+
+            } else {
+                // Player interface
+                System.out.println("Please enter the green card selected by the judge: ");
+                GreenCard chosenGreenCard = validGreenCard(greenCardDeck);
+                agentsHand.setGreenCard(chosenGreenCard);
+                System.out.println("The red card I play is:");
+
+                // pick card from hand
+                RedCard cRed = agentsHand.chooseCard(false);
+                System.out.println(cRed.getID());
+
+            }
+
+            // Update Scores, check for winner
+            System.out.println("Please tell me which player won (number): ");
+            winner = Integer.parseInt(input.next());
+            players.incrementPlayerScore(winner);
+            winnerID = players.checkForWinner();
+            if (!(winnerID==-1)) { // If not equals to -1, then someone won, exits loop/game
+                System.out.println("GAME OVER");
+                System.out.println("Player " + winnerID + " won");
+                loop = false;
+                continue;
+            }
+
+            // If game continues and agent was a player, refill hand and remove played cards
+            if (choice.equals("1")) {
+                System.out.println("Now tell me the red cards the other players selected");
+                redCardsPlayed(redCardDeck, numPlayers-1); // Removing cards played from deck
+                agentsHand.addRedCard(validRedCard(redCardDeck));
+
+
+            }
+
+        }
 
 
     }
@@ -132,5 +183,61 @@ public class Agent {
         return bestMatch;
     }
 
+    public static ArrayList<RedCard> redCardsPlayed(Map<String, RedCard> deck, int numCards) {
+        Scanner input = new Scanner(System.in);
+        ArrayList<RedCard> pulledCards = new ArrayList<>();
+        for (int i = 1; i <= numCards; i++) {
+            boolean loop = true;
+            while (loop) {
+                System.out.print("Card " + i + ": ");
+                String card = input.nextLine();
+                if (!deck.containsKey(card.toLowerCase())) {
+                    System.out.println("Invalid red card, please choose one from deck.");
+                } else {
+                    // Removes Card from deck and adds to return list
+                    loop = false;
+                    pulledCards.add(deck.remove(card));
+                }
 
+            }
+        }
+
+        return pulledCards;
+    }
+
+    public static GreenCard randomCard(Map<String, GreenCard> deck) {
+        // Used to pull random green card from deck
+        List<String> keysAsArray = new ArrayList<>(deck.keySet());
+        int r = new Random().nextInt(keysAsArray.size());
+        String chosen = keysAsArray.get(r);
+        return deck.remove(chosen);
+    }
+
+    public static GreenCard validGreenCard(Map<String, GreenCard> deck) {
+        Scanner input = new Scanner(System.in);
+        while (true) {
+            String card = input.nextLine();
+
+            if (deck.containsKey(card.toLowerCase())) {
+                return deck.remove(card);
+            }
+            System.out.println("Invalid Green Card, pick cards apart of deck.");
+            System.out.println("Please enter the green card selected by the judge: ");
+        }
+
+    }
+
+    public static RedCard validRedCard(Map<String, RedCard> deck) {
+        Scanner input = new Scanner(System.in);
+        while (true) {
+            System.out.print("Please enter the new red card dealt to me: ");
+            String card = input.nextLine();
+
+            if (deck.containsKey(card.toLowerCase())) {
+                return deck.remove(card);
+            }
+            System.out.println("\nInvalid Red Card, pick cards apart of deck.");
+        }
+
+    }
 }

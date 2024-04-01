@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 
-public class RedCard {
+public class RedCard implements Card {
     final String noun; // Unique identifier
     final String flavourText;
     List<String> synonyms;

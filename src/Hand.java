@@ -10,6 +10,13 @@ public class Hand {
     GreenCard greenCard;
     HashMap<RedCard, Integer> redCards = new HashMap<>();
 
+    Hand(ArrayList<RedCard> r) {
+        for (RedCard red : r) {
+            this.redCards.put(red, 0);
+        }
+
+    }
+
     public void setGreenCard(GreenCard g) {
         this.greenCard = g;
     }
@@ -24,7 +31,7 @@ public class Hand {
 
         // Right now returns random as below choice methodologies isn't implemented
         List<RedCard> keysAsArray = new ArrayList<>(redCards.keySet());
-        int r = new Random().nextInt();
+        int r = new Random().nextInt(keysAsArray.size());
         RedCard chosen = keysAsArray.get(r);
         this.redCards.remove(chosen);
         return chosen;
