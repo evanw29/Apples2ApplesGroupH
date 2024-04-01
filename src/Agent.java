@@ -65,7 +65,7 @@ public class Agent {
             exit(1);
         }
 
-        exit(1); // will remove later
+
 
         // Set up
         Players players = new Players(numPlayers, pointsToWin);
@@ -80,7 +80,7 @@ public class Agent {
         for (int i = 1; i <= 7; i++) {
             System.out.println("Card " + i + ": ");
             String card = input.next();
-
+            exit(1); // will remove later
         }
 
         // Main Loop
