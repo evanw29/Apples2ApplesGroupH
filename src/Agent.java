@@ -72,7 +72,7 @@ public class Agent {
         Scanner input = new Scanner(System.in);
         int winnerID;
         int winner;
-
+        Random random = new Random();
 
         // Display
         System.out.println("I assume I am player 1!");
@@ -97,7 +97,7 @@ public class Agent {
                 judgeHand.setGreenCard(chosenGC);
 
                 // Pick Winner
-                RedCard winningRed = judgeHand.chooseCard(false);
+                RedCard winningRed = judgeHand.chooseCard(random.nextBoolean()); // erratic judge, best/contrarian
                 System.out.println(winningRed.getID());
 
             } else {
@@ -107,7 +107,7 @@ public class Agent {
                 agentsHand.setGreenCard(chosenGreenCard);
                 System.out.println("The red card I play is:");
 
-                // pick card from hand
+                // pick best card from hand
                 RedCard cRed = agentsHand.chooseCard(false);
                 System.out.println(cRed.getID());
 
@@ -153,34 +153,6 @@ public class Agent {
         reader.close();
 
         return lines;
-    }
-
-    // Going to remove, just kept for now
-    public static RedCard nounSearch(GreenCard adjectiveCard, HashMap<String, RedCard> cards) {
-
-        List<String> adjList = adjectiveCard.getSynonyms();
-
-        RedCard rc;
-        int bestValue = 0;
-        RedCard bestMatch = null;
-        for (String noun : cards.keySet()) {
-
-            rc = cards.get(noun);
-            List<String> nounList = rc.getSynonyms();
-
-            // Retains all matching
-            nounList.retainAll(adjList);
-
-            if (nounList.size() > bestValue) {
-                bestMatch = rc;
-                bestValue = nounList.size();
-
-            }
-
-
-        }
-
-        return bestMatch;
     }
 
     public static ArrayList<RedCard> redCardsPlayed(Map<String, RedCard> deck, int numCards) {
