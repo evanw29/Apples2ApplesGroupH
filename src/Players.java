@@ -28,5 +28,15 @@ public class Players {
         return -1; // No winners yet
     }
 
+    public boolean checkForCloseWinner() {
+        // Will win in next move
+        for (Map.Entry<Integer, Integer> player : this.playerScores.entrySet()) {
+            if (player.getValue() == (this.winningScore - 1)) {
+                return true;
+            }
+        }
+        return false; // No close winners
+    }
+
 
 }

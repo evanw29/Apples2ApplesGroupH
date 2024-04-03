@@ -61,7 +61,7 @@ public class Agent {
         }
         catch (Exception e) {
             // Invalid arguments
-            System.out.println("Usage: ./agent <MAX NUMBER OF PLAYERS> <NUMBER OF POINTS TO WIN> <GREEN EXTENSION FILE NAME> <RED EXTENSION FILE NAME>");
+            System.out.println("Usage: java -jar <MAX NUMBER OF PLAYERS> <NUMBER OF POINTS TO WIN> <GREEN EXTENSION FILE NAME> <RED EXTENSION FILE NAME>");
             exit(1);
         }
 
@@ -72,7 +72,6 @@ public class Agent {
         Scanner input = new Scanner(System.in);
         int winnerID;
         int winner;
-        Random random = new Random();
 
         // Display
         System.out.println("I assume I am player 1!");
@@ -96,8 +95,9 @@ public class Agent {
                 Hand judgeHand = new Hand(redCardsPlayed(redCardDeck, numPlayers-1));
                 judgeHand.setGreenCard(chosenGC);
 
-                // Pick Winner
-                RedCard winningRed = judgeHand.chooseCard(random.nextBoolean()); // erratic judge, best/contrarian
+                // Pick Winner - Behavior changes when a player is close to winning
+                RedCard winningRed = judgeHand.chooseCard(players.checkForCloseWinner());
+                System.out.println("The winning card is:");
                 System.out.println(winningRed.getID());
 
             } else {
