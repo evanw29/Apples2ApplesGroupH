@@ -22,7 +22,7 @@ Descriptions:
 
                     make 
                  or 
-                    make create
+                    make all
 
     manifest.txt - designates main java file
 
