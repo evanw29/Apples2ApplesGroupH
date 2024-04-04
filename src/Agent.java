@@ -34,7 +34,7 @@ public class Agent {
             pointsToWin = Integer.parseInt(args[1]);
 
             // Reads green cards from text file
-            List<String> greenCards = readLinesFromFile("src/Cards/BasicGreenCards.txt");
+            List<String> greenCards = readLinesFromFile("src/BasicGreenCards.txt");
             greenCards.addAll(readLinesFromFile(args[2]));
 
             // Creates green card objects list
@@ -49,7 +49,7 @@ public class Agent {
 
 
             // Reads red cards from text file
-            List<String> redCards = readLinesFromFile("src/Cards/BasicRedCards.txt");
+            List<String> redCards = readLinesFromFile("src/BasicRedCards.txt");
             redCards.addAll(readLinesFromFile(args[3]));
 
             // Creates red card objects list
@@ -61,7 +61,7 @@ public class Agent {
         }
         catch (Exception e) {
             // Invalid arguments
-            System.out.println("Usage: java -jar <MAX NUMBER OF PLAYERS> <NUMBER OF POINTS TO WIN> <GREEN EXTENSION FILE NAME> <RED EXTENSION FILE NAME>");
+            System.out.println("Usage: ./Agent <MAX NUMBER OF PLAYERS> <NUMBER OF POINTS TO WIN> <GREEN EXTENSION FILE NAME> <RED EXTENSION FILE NAME>");
             exit(1);
         }
 
