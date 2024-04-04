@@ -1,7 +1,9 @@
 all:
 	javac *.java
 	jar cfm Agent.jar manifest.txt *.class
-	chmod +x Agent.jar
+	echo "#!/usr/bin/java -jar" > Agent
+	cat Agent.jar >> Agent
+	chmod +x Agent
 
 clean:
 	rm *.class

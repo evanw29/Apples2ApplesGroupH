@@ -1,6 +1,6 @@
 How to execute:
     make
-    java -jar <MAX NUMBER OF PLAYERS> <NUMBER OF POINTS TO WIN> <GREEN EXTENSION FILE NAME> <RED EXTENSION FILE NAME>
+    ./Agent <MAX NUMBER OF PLAYERS> <NUMBER OF POINTS TO WIN> <GREEN EXTENSION FILE NAME> <RED EXTENSION FILE NAME>
 
 File Contents:
     README.txt
@@ -19,10 +19,12 @@ Descriptions:
 
     makefile  -  Creates jar file
                  Use by calling:
+                        make
+                    or
+                        make all
 
-                    make 
-                 or 
-                    make all
+                 Clean Directory
+                        make clean
 
     manifest.txt - designates main java file
 
