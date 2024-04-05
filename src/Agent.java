@@ -72,6 +72,7 @@ public class Agent {
         Scanner input = new Scanner(System.in);
         int winnerID;
         int winner;
+        int currentJudge = 0;
 
         // Display
         System.out.println("I assume I am player 1!");
@@ -96,7 +97,7 @@ public class Agent {
                 judgeHand.setGreenCard(chosenGC);
 
                 // Pick Winner - Behavior changes when a player is close to winning
-                RedCard winningRed = judgeHand.chooseCard(players.checkForCloseWinner());
+                RedCard winningRed = judgeHand.chooseCard(players.getCurrentRoundJudgeBehaviour(currentJudge));
                 System.out.println("The winning card is:");
                 System.out.println(winningRed.getID());
 
@@ -128,7 +129,19 @@ public class Agent {
             // If game continues and agent was a player, refill hand and remove played cards
             if (choice.equals("1")) {
                 System.out.println("Now tell me the red cards the other players selected");
-                redCardsPlayed(redCardDeck, numPlayers-1); // Removing cards played from deck
+                // Removing cards played from deck
+                ArrayList<RedCard> redPlayed = redCardsPlayed(redCardDeck, numPlayers-1);
+                Hand testBehaviour = new Hand(redPlayed);
+                testBehaviour.setGreenCard(agentsHand.getGreenCard());
+                RedCard c = testBehaviour.chooseCard(true);
+
+                // updates judges behaviour
+                if (winner != 1 && c.equals(redPlayed.get(winner-2))) { // agent didn't win and judge is contrarian
+                    players.updateJudgeBehaviour(currentJudge, true);
+                } else { // agent won or judge is non-contrarian
+                    players.updateJudgeBehaviour(currentJudge, false);
+                }
+                currentJudge = (currentJudge + 1) % (numPlayers-1);
                 agentsHand.addRedCard(validRedCard(redCardDeck));
 
 
@@ -168,7 +181,7 @@ public class Agent {
                 } else {
                     // Removes Card from deck and adds to return list
                     loop = false;
-                    pulledCards.add(deck.remove(card));
+                    pulledCards.add(deck.remove(card.toLowerCase()));
                 }
 
             }
@@ -191,7 +204,7 @@ public class Agent {
             String card = input.nextLine();
 
             if (deck.containsKey(card.toLowerCase())) {
-                return deck.remove(card);
+                return deck.remove(card.toLowerCase());
             }
             System.out.println("Invalid Green Card, pick cards apart of deck.");
             System.out.println("Please enter the green card selected by the judge: ");
@@ -206,7 +219,7 @@ public class Agent {
             String card = input.nextLine();
 
             if (deck.containsKey(card.toLowerCase())) {
-                return deck.remove(card);
+                return deck.remove(card.toLowerCase());
             }
             System.out.println("\nInvalid Red Card, pick cards apart of deck.");
         }
