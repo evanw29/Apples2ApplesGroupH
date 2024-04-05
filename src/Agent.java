@@ -97,7 +97,7 @@ public class Agent {
                 judgeHand.setGreenCard(chosenGC);
 
                 // Pick Winner - Behavior changes when a player is close to winning
-                RedCard winningRed = judgeHand.chooseCard(players.getCurrentRoundJudgeBehaviour(currentJudge));
+                RedCard winningRed = judgeHand.chooseCard(players.checkForCloseWinner());
                 System.out.println("The winning card is:");
                 System.out.println(winningRed.getID());
 
@@ -109,7 +109,7 @@ public class Agent {
                 System.out.println("The red card I play is:");
 
                 // pick best card from hand
-                RedCard cRed = agentsHand.chooseCard(false);
+                RedCard cRed = agentsHand.chooseCard(players.getCurrentRoundJudgeBehaviour(currentJudge));
                 System.out.println(cRed.getID());
 
             }
