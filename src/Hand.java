@@ -14,6 +14,10 @@ public class Hand {
 
     }
 
+    public GreenCard getGreenCard() {
+        return this.greenCard;
+    }
+
     public void setGreenCard(GreenCard g) {
         this.greenCard = g;
         this.redCards.replaceAll( (k,v)-> 0); // New green card resets relationship value
@@ -33,15 +37,15 @@ public class Hand {
         for (RedCard red : keysAsArray) {
             
             // Relationship between adjective / noun
-            value += 3 * valueOfRelationShip(this.greenCard.getID(), red.getID());
+            value += 3 * valueOfRelationShip(this.greenCard.getID().toLowerCase(), red.getID().toLowerCase());
 
             // Relationship between adjective Synonyms / nouns (Worth 2x relation size)
             for (String syn : this.greenCard.getSynonyms()) {
-                value += valueOfRelationShip(syn, red.getID());
+                value += valueOfRelationShip(syn.toLowerCase(), red.getID().toLowerCase());
             }
 
             // Relationship between adjective / flavour text
-            value += valueOfRelationShip(this.greenCard.getID(), red.getFlavourText());
+            value += valueOfRelationShip(this.greenCard.getID().toLowerCase(), red.getFlavourText().toLowerCase());
 
             // Relationship between adjective synonyms / flavour text is messes with relationship, not including
 
