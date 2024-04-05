@@ -120,7 +120,7 @@ public class Agent {
             if (choice.equals("1")) {
                 System.out.println("Now tell me the red cards the other players selected");
                 // Removing cards played from deck
-                ArrayList<RedCard> redPlayed = redCardsPlayed(redCardDeck, numPlayers-1);
+                ArrayList<RedCard> redPlayed = redCardsPlayed(redCardDeck, numPlayers-2);
                 Hand testBehaviour = new Hand(redPlayed);
                 testBehaviour.setGreenCard(agentsHand.getGreenCard());
                 RedCard c = testBehaviour.chooseCard(true);
