@@ -4,6 +4,7 @@ import java.util.Map;
 public class Players {
     // Keeps track of players scores and detects when someone wins
     HashMap<Integer, Integer> playerScores = new HashMap<>();
+    // Keeps track of judges behaviour
     HashMap<Integer, Boolean> judgeBehaviour = new HashMap<>();
     final int winningScore;
 
@@ -28,7 +29,7 @@ public class Players {
     }
 
     public boolean getCurrentRoundJudgeBehaviour(int judge) {
-        if (checkForCloseWinner()) return true; // Contrarian if someone is close to winning
+        if (checkForCloseWinner()) return false; // non-Contrarian if someone is close to winning
         return this.judgeBehaviour.get(judge);
     }
 

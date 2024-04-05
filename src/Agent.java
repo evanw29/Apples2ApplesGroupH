@@ -10,14 +10,6 @@ import static java.lang.System.exit;
 public class Agent {
     public static void main(String[] args) {
 
-        /* ******** To test agent through intellij *************** */
-        // click the file selected beside run button triangle
-        // click three dots for the Agent class, edit parameters/ arguments
-        // copy past following
-        // 4 2 src\Cards\SampleGreenExtension.txt src\Cards\SampleRedExtension.txt
-        // can change first two integers but keep path for txt files the same
-        // or use terminal
-
         // Initialize decks / numbers
         Map<String, GreenCard> greenCardDeck = null;
         Map<String, RedCard> redCardDeck = null;
@@ -65,8 +57,6 @@ public class Agent {
             exit(1);
         }
 
-        // Pre-training will be setup here if we want to implement it
-
         // Set up
         Players players = new Players(numPlayers, pointsToWin);
         Scanner input = new Scanner(System.in);
@@ -74,14 +64,14 @@ public class Agent {
         int winner;
         int currentJudge = 0;
 
-        // Display
+        // Display & set up continued
         System.out.println("I assume I am player 1!");
         System.out.print("The other players are:");
         for (int i = 2; i <= numPlayers; i++) System.out.print(i + " ");
         System.out.println("\nPlease enter the red cards dealt to me, one by one.");
         Hand agentsHand = new Hand(redCardsPlayed(redCardDeck, 7));
 
-        // Main Loop (Can be refactored / reformatted but not high priority, focus on methods to choose card)
+        // Main Loop
         boolean loop = true;
         while (loop) {
             System.out.println("---------------NEW ROUND------------------");
@@ -108,7 +98,7 @@ public class Agent {
                 agentsHand.setGreenCard(chosenGreenCard);
                 System.out.println("The red card I play is:");
 
-                // pick best card from hand
+                // Pick Red Card / behaviour changes based on record of judges behaviour
                 RedCard cRed = agentsHand.chooseCard(players.getCurrentRoundJudgeBehaviour(currentJudge));
                 System.out.println(cRed.getID());
 
@@ -144,7 +134,6 @@ public class Agent {
                 currentJudge = (currentJudge + 1) % (numPlayers-1);
                 agentsHand.addRedCard(validRedCard(redCardDeck));
 
-
             }
 
         }
@@ -169,6 +158,7 @@ public class Agent {
     }
 
     public static ArrayList<RedCard> redCardsPlayed(Map<String, RedCard> deck, int numCards) {
+        // Gathers valid red Cards
         Scanner input = new Scanner(System.in);
         ArrayList<RedCard> pulledCards = new ArrayList<>();
         for (int i = 1; i <= numCards; i++) {
